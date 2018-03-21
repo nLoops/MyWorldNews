@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="singleItem_padding">16dp</dimen>
+    <dimen name="text_margin_left">24dp</dimen>
+    <dimen name="section_text_size">17sp</dimen>
+    <dimen name="title_text_size">25sp</dimen>
+
+
+</resources>

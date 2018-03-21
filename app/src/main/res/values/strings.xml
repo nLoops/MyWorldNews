@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MyWorldNews</string>
+    <string name="no_news">no articles found, try again.</string>
+    <string name="no_internet">no internet connection, try again.</string>
+    <string name="search_title">e.g. \'Sports'</string>
+    <!--Main Types-->
+    <string name="sec_sport">Sport</string>
+    <string name="sec_politics">Politics</string>
+    <string name="sec_art">Art and design</string>
+    <string name="sec_bus">Business</string>
+    <string name="sec_football">Football</string>
+    <string name="sec_world">World</string>
+    <string name="sec_soccer">Soccer</string>
+    <!--Settings-->
+    <string name="setting">Settings</string>
+    <string name="xml_title">News Settings</string>
+    <!--Min Pages Display Setting-->
+    <string name="setting_min_page_label">Minimum Pages ( Values from 1 To 50 ) </string>
+    <string name="setting_min_page_key" translatable="false">min_pages</string>
+    <string name="setting_min_pages_default" translatable="false">10</string>
+    <!--Sections Settings-->
+    <string name="setting_section_label">Sections</string>
+    <string name="setting_section_key" translatable="false">news_sections</string>
+    <string name="setting_section_default" translatable="false">@string/setting_section_all_value</string>
+
+    <!--Display all News-->
+    <string name="setting_section_all_label">Display All</string>
+    <string name="setting_section_all_value" translatable="false">All</string>
+    <!--Section 1: Football-->
+    <string name="setting_section_football_label">Football</string>
+    <string name="setting_section_football_value" translatable="false">football</string>
+    <!--Section 2: Politics-->
+    <string name="setting_section_politics_label">Politics</string>
+    <string name="setting_section_politics_value" translatable="false">politics</string>
+    <!--Section 3: Film-->
+    <string name="setting_section_film_label">Films</string>
+    <string name="setting_section_film_value" translatable="false">film</string>
+    <!--Section 4: Business-->
+    <string name="setting_section_business_label">Business</string>
+    <string name="setting_section_business_value" translatable="false">business</string>
+    <!--Section 5: World News-->
+    <string name="setting_section_news_label">World News</string>
+    <string name="setting_section_news_value" translatable="false">world</string>
+    <!--Section 6: Sports-->
+    <string name="setting_section_sport_label">Sports</string>
+    <string name="setting_section_sport_value" translatable="false">sport</string>
+    <!--Section 7: TV and Radio-->
+    <string name="setting_section_tvandradio_label">Television and Radio</string>
+    <string name="setting_section_tvandradio_value" translatable="false">tv-and-radio</string>
+
+
+
+</resources>

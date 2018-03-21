@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5456A3</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="txtColor">@color/colorPrimary</color>
+    <!--News Category Colors -->
+    <color name="sport_cat">#4CAF50</color>
+    <color name="politics_cat">#ea1f78</color>
+    <color name="finance_cat">#0066bb</color>
+    <color name="art_cat">#00a4a7</color>
+    <color name="default_color">#9a4bd8</color>
+    <color name="type_color">#FF722E</color>
+
+</resources>

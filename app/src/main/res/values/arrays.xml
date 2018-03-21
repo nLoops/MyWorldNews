@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_section_labels">
+        <item>@string/setting_section_all_value</item>
+        <item>@string/setting_section_football_label</item>
+        <item>@string/setting_section_sport_label</item>
+        <item>@string/setting_section_politics_label</item>
+        <item>@string/setting_section_film_label</item>
+        <item>@string/setting_section_business_label</item>
+        <item>@string/setting_section_news_label</item>
+        <item>@string/setting_section_tvandradio_label</item>
+    </string-array>
+
+    <string-array name="setting_section_values">
+        <item>@string/setting_section_all_value</item>
+        <item>@string/setting_section_football_value</item>
+        <item>@string/setting_section_sport_value</item>
+        <item>@string/setting_section_politics_value</item>
+        <item>@string/setting_section_film_value</item>
+        <item>@string/setting_section_business_value</item>
+        <item>@string/setting_section_news_value</item>
+        <item>@string/setting_section_tvandradio_value</item>
+    </string-array>
+
+
+</resources>
